@@ -1,4 +1,4 @@
 # Olá, Mundo!
- Primeiro repositório do curso de Git e GitHub
+ Primeiro repositório do curso de Git e GitHub.
 
-Repositório Criado em 09/02/2023
+Repositório Criado em 09/02/2023!
